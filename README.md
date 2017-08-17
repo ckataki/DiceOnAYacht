@@ -1,4 +1,4 @@
-## Dice on a Yacht game!
+## [Dice on a Yacht!](https://en.wikipedia.org/wiki/Yacht_(dice_game))
 This game is played with five eight-sided dice.
 > Input: Category indicator, and array of the five die values
 
